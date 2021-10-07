@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="assets\alex-wong-l5Tzv1alcps-unsplash.jpg" alt="ss">
- &emsp;
 
  ### Hi there 👋
 
