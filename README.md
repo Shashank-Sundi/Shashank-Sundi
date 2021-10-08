@@ -40,9 +40,8 @@ Here are some ideas to get you started:
 
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank-Sundi&theme=synthwave&show_icons=true )
 &nbsp; &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sundi&theme=synthwave&show_icons=true )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sundi&theme=synthwave&show_icons=true&exclude_repo=Assignments )
 
-![Top Langs](https://ionicabizau.github.io/github-profile-languages/api.html?Shashank-Sundi )
 
 <hr>
 
