@@ -38,9 +38,10 @@ Here are some ideas to get you started:
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Shashank-Sundi&area=true&theme=xcode&area_color=b273ff)
 
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank-Sundi&theme=synthwave&show_icons=true )
+![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank-Sundi&theme=synthwave&show_icons=true&hide=contribs)
 &nbsp; &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sundi&theme=synthwave&show_icons=true&exclude_repo=Assignments )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sundi&theme=synthwave&show_icons=true&exclude_repo=Assignments&card_width=450 )
+
 
 
 <hr>
