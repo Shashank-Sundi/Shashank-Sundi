@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank-Sundi&theme=synthwave&show_icons=true&hide=contribs)
 &nbsp; &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sundi&theme=synthwave&show_icons=true&exclude_repo=Assignments&card_width=450 )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sundi&theme=synthwave&show_icons=true&exclude_repo=Assignments )
 
 
 
