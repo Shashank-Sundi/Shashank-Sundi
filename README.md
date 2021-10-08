@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 &nbsp; &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sundi&theme=synthwave&show_icons=true )
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Shashank-Sundi" frameborder="0"></iframe>
+![Top Langs](https://ionicabizau.github.io/github-profile-languages/api.html?Shashank-Sundi )
 
 <hr>
 
