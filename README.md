@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Machine Learning and Deep Learning Projects
 - 👯 I’m looking to collaborate and learn on  Machine Learning and Deep Learning Projects
 - 💬 I love to discuss about Machine Learning , Music Production , Startups and a lot of other crazy stuff !!
-- :muscle: Currently looking out to find my first Internship in the field of ML-DL !!
 - :v: Last but not the least , I love to keep learning
 
 
