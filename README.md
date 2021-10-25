@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Shashank-Sundi&area=true&theme=xcode&area_color=b273ff)
-
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-graph-activity-sundi.herokuapp.com/graph?username=Shashank-Sundi&area=true&theme=xcode&area_color=b273ff)
 
 
 <hr>
