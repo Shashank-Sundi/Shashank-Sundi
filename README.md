@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Profile views](https://gpvc.arturio.dev/Shashank-Sundi)
- ### Namste , I'm <a href="https://shashank-sundi.github.io/">Shashank</a> 👋
+ ### Namaste , I'm <a href="https://shashank-sundi.github.io/">Shashank</a> 👋
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning Projects
 - 🌱 I’m currently learning Computer Vision , NLP , DevOps and Python(this never ends 😁).
