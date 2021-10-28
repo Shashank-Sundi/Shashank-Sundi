@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  ### Namaste , I'm <a href="https://shashank-sundi.github.io/" target=”_blank”>Shashank</a> :pray:
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning Projects
-- 🌱 I’m currently learning Computer Vision , NLP , DevOps and Python(this never ends 😁).
+- 🌱 I’m currently learning Computer Vision, DevOps and Python(this never ends 😁).
 - 👯 I’m looking to collaborate and learn on  Machine Learning and Deep Learning Projects
 - 💬 I love to discuss about Machine Learning , Music Production , Startups and a lot of other crazy stuff !!
 - ⚡ Current Favourite Quote :  “In preparing for battle I have always found that plans are useless but planning is indispensable.”
