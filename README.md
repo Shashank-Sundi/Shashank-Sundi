@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑.](https://github-graph-activity-sundi.herokuapp.com/graph?username=Shashank-Sundi&area=true&theme=xcode&area_color=b273ff)
 
+![Shashank's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shashank-Sundi&area=true&theme=xcode&area_color=b273ff&custom_title=Shashank's%20github%20activity%20graph&hide_border=true)
 
 <hr>
 
