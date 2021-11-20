@@ -91,7 +91,8 @@ Here are some ideas to get you started:
   </a> &emsp;
   <a href="https://pytorch.org/" target="_blank"> 
     <img alt="Pytorch" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  </a>
+  </a>&emsp;
+ ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 </p>
 <hr>
