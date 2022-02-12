@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Panoptic Segmentation,Keypoint Detection, DevOps,Python(this never ends 😁) etc.
 - 👯 I’m looking to collaborate and learn on  Machine Learning and Deep Learning Projects
 - 💬 I love to discuss about Machine Learning , Music Production , Startups and a lot of other crazy stuff !!
-- ⚡ Current Favourite Quote :  “ You will definitely feel the steep descents and uphill strugles in life.But it is important to remember that the 
-  &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp; &emsp;bottom of the valley never has the clearest view.And that sometimes all you need to do in order to &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; rise up again is to keep moving forward ”
+- ⚡ Current Favourite Quote :  “ You will definitely feel the steep descents and uphill strugles in life.But it is important to remember that the bottom of the valley never has the clearest view.And that sometimes all you need to do in order to rise up again is to keep moving forward ”
    &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
 
 
