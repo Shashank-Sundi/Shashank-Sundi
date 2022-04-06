@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/Shashank-Sundi)
  ### Namaste , I'm <a href="https://shashank-sundi.github.io/" target=”_blank”>Shashank</a> :pray:
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning Projects
 - 🌱 I’m currently learning Panoptic Segmentation,Keypoint Detection, DevOps,Python(this never ends 😁) etc.
 - 👯 I’m looking to collaborate and learn on  Machine Learning and Deep Learning Projects
 - 💬 I love to discuss about Machine Learning , Music Production , Startups and a lot of other crazy stuff !!
