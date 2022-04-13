@@ -61,6 +61,9 @@ Here are some ideas to get you started:
   </a>&emsp;
   <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  </a>&emsp;
+ <a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
   </a>
 
   
