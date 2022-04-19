@@ -136,6 +136,12 @@ Here are some ideas to get you started:
 
 <hr>
 
+<!-- ## Resume -->
+
+<!-- <a href="https://drive.google.com/file/d/1KxQQLGLCRoQ6TJdKL3yyXiddxpRNcRQe/view?usp=sharing" target=”_blank”><img src="https://github.com/Shashank-Sundi/shashank-sundi.github.io/blob/main/assets/img/resume.PNG" alt="Resume" /></a> -->
+
+<hr>
+
 ### 👉 Contact 
 <a href="https://www.linkedin.com/in/shashank-sundi-4b78561b1"> ![alt text](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>&emsp;
 <a href="https://www.instagram.com/shashank_sundi13/">![alt text](https://img.shields.io/badge/Shashank_Sundi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>&emsp;
